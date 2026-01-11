@@ -1,12 +1,12 @@
 # Gesture Earth 3D 🌍🖐️
 
-[![License: MIT](https://cdn.jsdelivr.net/gh/czlifetime/img/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://cdn.jsdelivr.net/gh/czlifetime/img/React-19-blue)](https://react.dev/)
-[![Three.js](https://cdn.jsdelivr.net/gh/czlifetime/img/Three.js-0.160-black)](https://threejs.org/)
-[![MediaPipe](https://cdn.jsdelivr.net/gh/czlifetime/img/MediaPipe-Hands-orange)](https://developers.google.com/mediapipe)
-[![TypeScript](https://cdn.jsdelivr.net/gh/czlifetime/img/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev/)
+[![Three.js](https://img.shields.io/badge/Three.js-0.160-black?logo=three.js&logoColor=white)](https://threejs.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-orange)](https://developers.google.com/mediapipe)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 
-**Gesture Earth ** 是一个极具未来感的交互式 3D 地球可视化项目。它完全通过摄像头捕捉手势进行控制，无需鼠标或键盘。本项目结合了 **Three.js** 的强大渲染能力和 **Google MediaPipe** 的实时手部追踪技术，构建在现代化的 **React** 应用之上。
+**Gesture Earth**是一个极具未来感的交互式 3D 地球可视化项目。它完全通过摄像头捕捉手势进行控制，无需鼠标或键盘。本项目结合了 **Three.js** 的强大渲染能力和 **Google MediaPipe** 的实时手部追踪技术，构建在现代化的 **React** 应用之上。
 
 ![项目预览](https://cdn.jsdelivr.net/gh/czlifetime/img/GestureEarth.png)
 
