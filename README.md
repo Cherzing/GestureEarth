@@ -31,7 +31,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/gesture-earth-3d.git
+   git clone https://github.com/Cherzing/GestureEarth.git
    cd GesturEarth
    ```
 
